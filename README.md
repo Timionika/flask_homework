@@ -19,6 +19,7 @@ venv\Scripts\activate
 1.POST http://127.0.0.1:8002/twit 
 Данный запрос выполните 2 раза с разным телом. 
 Тело запроса: 
+
 {
   "body": "Twit 0",
   "author": "@username"
