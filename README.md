@@ -13,9 +13,9 @@ DELETE /twit/<int:twit_id> — удаление твита
 
 Если хотите предаврительно создать виртуальное окружение проекта, то выполните команды 
 
-python -m venv venv
+```python -m venv venv```
 
-venv\Scripts\activate
+```venv\Scripts\activate```
 
 После запуска main.py выполните следующие запросы по инструкции: 
 
